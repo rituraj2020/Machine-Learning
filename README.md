@@ -1,3 +1,1 @@
-# Machine-Learning
-
-i am rituraj .this is my first github project
+This file contains all the projects done my me. Please feel free to collaborate
